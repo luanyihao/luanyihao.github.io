@@ -17,15 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-HELLO TRYING
+# 🎓 教育背景
+### 山东大学 | 机械设计制造及其自动化 *2022.09 - 2026.06*
+- GPA：3.5/4.0（专业前15%）
+- 山东大学二等学业奖学金（2024）山东大学三等学业奖学金（2023）
+- 山东大学社会服务类、体育特长类、劳动素养类奖学金三项五次
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+## 🚀 项目经历
+
+### 碳化硅增强铝基复合材料 |  *2023.06 - 2024.3*
+- 使用Abaqus进行仿真分析
+- 论文撰写 完稿论文一篇待发表（共同一作）
+- 
+
+### 组合导航智能气垫船 | 全栈开发 *2024.10 - 至今*
+- Stanley 路径跟踪和模糊 PID 控制
+- 基于 EKF 的 GNSS/INS 组合定位
+- 将参加2025年第二十届全国大学生智能汽车竞赛
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 📚 其他
+- **证书**：CSWP全球认证工程师 | 国家网球二级裁判
+- **语言**：英语（CET4 580,CET6 480）
 
+
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
