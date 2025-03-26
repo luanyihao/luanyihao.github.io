@@ -40,7 +40,7 @@ redirect_from:
   分层颗粒分布可以均匀变形并释放界面处的应力集中，从而提高复合材料的整体延展性和韧性。
 - 论文撰写 完稿论文一篇待发表（共同一作）
 - *Hierarchical particle design to mitigate strength-ductility trade-off in aluminum matrix composites*
-
+  [paper](images/paper.pdf)
 ### 组合导航智能气垫船 | 全栈开发 *2024.10 - 至今*
 - 算法程序 基于STC32G12K128K开发Stanley路径跟踪和模糊 PID 控制/基于EKF的GNSS组合导航
 - 机械结构开发 气垫裙边结构、车模机械结构和无刷电机等
