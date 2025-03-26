@@ -35,18 +35,17 @@ redirect_from:
 
 ## 🚀 项目经历
 
-### 碳化硅增强铝基复合材料 |  *2023.06 - 2024.3*
+### 一、碳化硅增强铝基复合材料 |  *2023.06 - 2024.3*
 - 主要使用Abaqus进行仿真分析，研究了混合碳化硅颗粒增强铝基复合材料的力学响应和硬化机理分析
   分层颗粒分布可以均匀变形并释放界面处的应力集中，从而提高复合材料的整体延展性和韧性。
 - 论文撰写 完稿论文一篇待发表（共同一作）
-- *Hierarchical particle design to mitigate strength-ductility trade-off in aluminum matrix composites*
-  [paper](images/paper.pdf)
-### 组合导航智能气垫船 | 全栈开发 *2024.10 - 至今*
+- *Hierarchical particle design to mitigate strength-ductility trade-off in aluminum matrix composites*[paper](images/paperpdf.pdf)
+### 二、组合导航智能气垫船 | 全栈开发 *2024.10 - 至今*
 - 算法程序 基于STC32G12K128K开发Stanley路径跟踪和模糊 PID 控制/基于EKF的GNSS组合导航
 - 机械结构开发 气垫裙边结构、车模机械结构和无刷电机等
 - *当前进展* 将参加2025年第二十届全国大学生智能汽车竞赛
 
-### 基于环路热管的自驱动多点冷凝散热系统 | 参与研发 *2024.10 - 至今*
+### 三、基于环路热管的自驱动多点冷凝散热系统 | 参与研发 *2024.10 - 至今*
 - 试验台搭建 磨粉/毛细芯制作
 - 流体仿真分析 利用小功率废热驱动整体回路，进行大功率高效散热
 - *当前进展* 将参加2025年全国大学生节能减排比赛
